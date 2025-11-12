@@ -567,6 +567,7 @@ under the License.
     <rootpom.basedir>${basedir}</rootpom.basedir>
     <maven.multiModuleProjectDirectory>${rootpom.basedir}</maven.multiModuleProjectDirectory>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <sonar.organization>vikrant1717</sonar.organization>
   </properties>
 
   <dependencyManagement>
